@@ -8,10 +8,7 @@ This repository contains a set of Java assignment questions designed to help in 
     - [Basic Programming & OOP Fundamentals](#basic-programming-oop-fundamentals)
     - [Advanced OOP & Collections](#advanced-oop-collections)
     - [Data Structures & Algorithms](#data-structures-algorithms)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Solutions](#solutions)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Assignment Questions
 
