@@ -1,0 +1,76 @@
+# Compiled class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Log files
+*.log
+logs/
+target/*.log
+
+# IDE specific files (Eclipse)
+.project
+.classpath
+.settings/
+*.launch
+.metadata/
+*.bak
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle specific files
+.gradle/
+build/
+*.ipr
+*.iml
+*.iws
+.project_leaf
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*/.project
+*/.classpath
+*/.settings/
+
+# If you're using any code analysis tools or specific build output folders, add them here
+# For example, if you have a 'dist' folder for build output:
+# /dist/
+
+# Configuration files that might contain sensitive information or are environment-specific
+# For example, if you have a database connection file
+# application.properties
+# application.yml
+# *.properties
+# *.yml
+
+# IntelliJ-specific (if any of your team members use it, though Eclipse is mentioned)
+# .idea/
+# *.iml
+# *.ipr
+# *.iws
+# out/
+
+# Eclipse specific files for workspace (usually outside the project root, but good to have)
+# .metadata/ (This should usually be in the workspace root, not inside individual project repos)
