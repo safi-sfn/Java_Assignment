@@ -75,3 +75,6 @@ Thumbs.db
 # Eclipse specific files for workspace (usually outside the project root, but good to have)
 # .metadata/ (This should usually be in the workspace root, not inside individual project repos)
 
+# Compiled class files
+*.class
+/bin/           # Eclipse default output folder for compiled classes
